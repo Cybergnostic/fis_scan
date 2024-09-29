@@ -1,0 +1,263 @@
+{
+    "metadata": {
+        "ПИБ": "101670560",
+        "Име продајног места": "1114212-IDEA SUPER 524",
+        "Адреса": "БУЛЕВАР МЕДИЈАНА 21",
+        "Град": "НИШ (МЕДИЈАНА)",
+        "Општина": "Ниш-Медијана",
+        "ИД купца": "",
+        "Затражио": "2E726QNR",
+        "Врста": "Промет",
+        "Укупан износ": "4.503,19",
+        "Бројач по врсти трансакције": "267448",
+        "Бројач укупног броја": "270854",
+        "Екстензија бројача рачуна": "ПП",
+        "Затражио - Потписао - Бројач": "2E726QNR-2E726QNR-270854",
+        "Потписао": "2E726QNR",
+        "ПФР време (временска зона сервера)": "28.9.2024. 19:26:03"
+    },
+    "items": [
+        {
+            "gtin": "",
+            "name": "BANANA                    KG",
+            "quantity": 1.46,
+            "total": 277.39,
+            "unitPrice": 189.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 252.17,
+            "vatAmount": 25.22
+        },
+        {
+            "gtin": "",
+            "name": "PROBIOTIK 1%MM 1,5KG PET KOM",
+            "quantity": 1,
+            "total": 199.99,
+            "unitPrice": 199.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 181.81,
+            "vatAmount": 18.18
+        },
+        {
+            "gtin": "",
+            "name": "KESA VJZ 10KG 51 MIKRON  KOM",
+            "quantity": 1,
+            "total": 19.99,
+            "unitPrice": 19.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 16.66,
+            "vatAmount": 3.33
+        },
+        {
+            "gtin": "",
+            "name": "HLEB MESANO RAZANI REZAN KOM",
+            "quantity": 1,
+            "total": 114.99,
+            "unitPrice": 114.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 104.54,
+            "vatAmount": 10.45
+        },
+        {
+            "gtin": "",
+            "name": "JAJA A KLASA M GRUPA 15/ KOM",
+            "quantity": 1,
+            "total": 229.99,
+            "unitPrice": 229.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 209.08,
+            "vatAmount": 20.91
+        },
+        {
+            "gtin": "",
+            "name": "TIKVICA BELA              KG",
+            "quantity": 0.462,
+            "total": 73.92,
+            "unitPrice": 159.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 67.2,
+            "vatAmount": 6.72
+        },
+        {
+            "gtin": "",
+            "name": "LIMUN SNIZENO             KG",
+            "quantity": 0.844,
+            "total": 227.87,
+            "unitPrice": 269.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 207.15,
+            "vatAmount": 20.72
+        },
+        {
+            "gtin": "",
+            "name": "PAPRIKA CRVENA            KG",
+            "quantity": 0.596,
+            "total": 113.23,
+            "unitPrice": 189.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 102.94,
+            "vatAmount": 10.29
+        },
+        {
+            "gtin": "",
+            "name": "ZU ZU 800G FRIKOM        KOM",
+            "quantity": 1,
+            "total": 249.99,
+            "unitPrice": 249.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 227.26,
+            "vatAmount": 22.73
+        },
+        {
+            "gtin": "",
+            "name": "MARAMICE VL UNIVERZALNE  KOM",
+            "quantity": 1,
+            "total": 139.99,
+            "unitPrice": 139.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 116.66,
+            "vatAmount": 23.33
+        },
+        {
+            "gtin": "",
+            "name": "SOS KARI 325G PEMY FAMIL KOM",
+            "quantity": 1,
+            "total": 179.99,
+            "unitPrice": 179.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 149.99,
+            "vatAmount": 30
+        },
+        {
+            "gtin": "",
+            "name": "PARADAJZ SECKANI 400G K  KOM",
+            "quantity": 2,
+            "total": 189.98,
+            "unitPrice": 94.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 158.32,
+            "vatAmount": 31.66
+        },
+        {
+            "gtin": "",
+            "name": "VL MARAMICE DEZ KUCA 60/ KOM",
+            "quantity": 1,
+            "total": 129.99,
+            "unitPrice": 129.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 108.32,
+            "vatAmount": 21.67
+        },
+        {
+            "gtin": "",
+            "name": "MLEKO UHT 1.5%MM 1L K PL KOM",
+            "quantity": 2,
+            "total": 179.98,
+            "unitPrice": 89.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 163.62,
+            "vatAmount": 16.36
+        },
+        {
+            "gtin": "",
+            "name": "RUZMARIN 20G MINUTE      KOM",
+            "quantity": 1,
+            "total": 119.99,
+            "unitPrice": 119.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 99.99,
+            "vatAmount": 20
+        },
+        {
+            "gtin": "",
+            "name": "TORTILJA PSENICNA 12/1 7 KOM",
+            "quantity": 2,
+            "total": 399.98,
+            "unitPrice": 199.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 333.32,
+            "vatAmount": 66.66
+        },
+        {
+            "gtin": "",
+            "name": "KESA CENA I KVALITET     KOM",
+            "quantity": 2,
+            "total": 15.98,
+            "unitPrice": 7.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 13.32,
+            "vatAmount": 2.66
+        },
+        {
+            "gtin": "",
+            "name": "BROKOLI 450G GARDEN GOOD KOM",
+            "quantity": 1,
+            "total": 149.99,
+            "unitPrice": 149.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 136.35,
+            "vatAmount": 13.64
+        },
+        {
+            "gtin": "",
+            "name": "VINO PINOT GRIGIO ALTO B KOM",
+            "quantity": 1,
+            "total": 829.99,
+            "unitPrice": 829.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 691.66,
+            "vatAmount": 138.33
+        },
+        {
+            "gtin": "",
+            "name": "GRANOLA CHOCO 300G RISE& KOM",
+            "quantity": 1,
+            "total": 219.99,
+            "unitPrice": 219.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 183.32,
+            "vatAmount": 36.67
+        },
+        {
+            "gtin": "",
+            "name": "GRANOLA NUTS 300G RISE&S KOM",
+            "quantity": 1,
+            "total": 219.99,
+            "unitPrice": 219.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 183.32,
+            "vatAmount": 36.67
+        },
+        {
+            "gtin": "",
+            "name": "GRANOLA BERRY 300G RISE& KOM",
+            "quantity": 1,
+            "total": 219.99,
+            "unitPrice": 219.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 183.32,
+            "vatAmount": 36.67
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "metadata": {
+        "ПИБ": "100354091",
+        "Име продајног места": "1090897-Супермаркет Мармил П8",
+        "Адреса": "СРПСКИХ ВЛАДАРА 199",
+        "Град": "ПИРОТ",
+        "Општина": "Пирот",
+        "ИД купца": "",
+        "Затражио": "AYGJEB9G",
+        "Врста": "Промет",
+        "Укупан износ": "3.366,36",
+        "Бројач по врсти трансакције": "1142070",
+        "Бројач укупног броја": "1142161",
+        "Екстензија бројача рачуна": "ПП",
+        "Затражио - Потписао - Бројач": "AYGJEB9G-AYGJEB9G-1142161",
+        "Потписао": "AYGJEB9G",
+        "ПФР време (временска зона сервера)": "14.9.2024. 14:13:16"
+    },
+    "items": [
+        {
+            "gtin": "8600103067812",
+            "name": "KESA PVC BIORAZGRADIVA 290X540/KOM",
+            "quantity": 1,
+            "total": 3,
+            "unitPrice": 3,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 2.5,
+            "vatAmount": 0.5
+        },
+        {
+            "gtin": "8601300046013",
+            "name": "BRASNO PSENICNO DANUBIUS MEKO T-400 1KG/KOM",
+            "quantity": 1,
+            "total": 54.99,
+            "unitPrice": 54.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 49.99,
+            "vatAmount": 5
+        },
+        {
+            "gtin": "86025980",
+            "name": "SENF POLIMARK FINI CASA 100ML/KOM",
+            "quantity": 1,
+            "total": 59.99,
+            "unitPrice": 59.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 49.99,
+            "vatAmount": 10
+        },
+        {
+            "gtin": "3850104007385",
+            "name": "SUPA PODRAVKA SVAJCARSKA 54G/KOM",
+            "quantity": 1,
+            "total": 79.99,
+            "unitPrice": 79.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 66.66,
+            "vatAmount": 13.33
+        },
+        {
+            "gtin": "8606108723081",
+            "name": "HLEB MARMIL FRANCUSKI 500G/KOM",
+            "quantity": 1,
+            "total": 80,
+            "unitPrice": 80,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 72.73,
+            "vatAmount": 7.27
+        },
+        {
+            "gtin": "3800200452107",
+            "name": "DVOPEK KRAMBALS BRUSKETI ZELENE MASLINE SO 70G/KOM",
+            "quantity": 1,
+            "total": 84.99,
+            "unitPrice": 84.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 70.82,
+            "vatAmount": 14.17
+        },
+        {
+            "gtin": "8606017375333",
+            "name": "CIPS MARBO CHIPSY DOMACINSKI KAJMAK 160G/KOM",
+            "quantity": 1,
+            "total": 189.99,
+            "unitPrice": 189.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 158.32,
+            "vatAmount": 31.67
+        },
+        {
+            "gtin": "8606011520265",
+            "name": "SECER U PRAHU MORAVKA 200G/KOM",
+            "quantity": 1,
+            "total": 54.99,
+            "unitPrice": 54.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 49.99,
+            "vatAmount": 5
+        },
+        {
+            "gtin": "",
+            "name": "SIR BELI MLEKARSKA SKOLA KRAVLJI RF/KG",
+            "quantity": 0.696,
+            "total": 695.99,
+            "unitPrice": 999.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 579.99,
+            "vatAmount": 116
+        },
+        {
+            "gtin": "5942105006127",
+            "name": "PIVO BIRRA MORETTI LIMENKA 500ML/KOM",
+            "quantity": 4,
+            "total": 411.96,
+            "unitPrice": 102.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 343.3,
+            "vatAmount": 68.66
+        },
+        {
+            "gtin": "8600947090915",
+            "name": "ZACIN CIMET ALEVA 5G/KOM",
+            "quantity": 1,
+            "total": 22.99,
+            "unitPrice": 22.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 19.16,
+            "vatAmount": 3.83
+        },
+        {
+            "gtin": "",
+            "name": "SIR BELI MARINKOVIC PUNOMASNI TVRDI RF/KG",
+            "quantity": 0.36,
+            "total": 291.6,
+            "unitPrice": 809.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 243,
+            "vatAmount": 48.6
+        },
+        {
+            "gtin": "7613030501381",
+            "name": "MAJONEZ NESTLE THOMY TEGLA 611G/KOM",
+            "quantity": 1,
+            "total": 349.99,
+            "unitPrice": 349.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 291.66,
+            "vatAmount": 58.33
+        },
+        {
+            "gtin": "8606004663238",
+            "name": "MASLAC BISER 10G/KOM",
+            "quantity": 3,
+            "total": 56.97,
+            "unitPrice": 18.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 47.48,
+            "vatAmount": 9.49
+        },
+        {
+            "gtin": "8606013742023",
+            "name": "JAJA ELAN S KLASA 10/1/KOM",
+            "quantity": 1,
+            "total": 89.99,
+            "unitPrice": 89.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 81.81,
+            "vatAmount": 8.18
+        },
+        {
+            "gtin": "8601500136408",
+            "name": "MLEKO ZDRAVO UHT 2% 1L/KOM",
+            "quantity": 1,
+            "total": 116.99,
+            "unitPrice": 116.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 106.35,
+            "vatAmount": 10.64
+        },
+        {
+            "gtin": "3877002085178",
+            "name": "KEKS TAKO 200G/KOM",
+            "quantity": 1,
+            "total": 35.99,
+            "unitPrice": 35.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 29.99,
+            "vatAmount": 6
+        },
+        {
+            "gtin": "3877002085178",
+            "name": "KEKS TAKO 200G/KOM",
+            "quantity": 1,
+            "total": 35.99,
+            "unitPrice": 35.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 29.99,
+            "vatAmount": 6
+        },
+        {
+            "gtin": "8601500111207",
+            "name": "JOGURT IMLEK BALANS + TT 1KG/KOM",
+            "quantity": 1,
+            "total": 159.99,
+            "unitPrice": 159.99,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 145.45,
+            "vatAmount": 14.54
+        },
+        {
+            "gtin": "8606017379331",
+            "name": "CIPS MARBO CHIPSY PIKANT PAPRIKA 140G/KOM",
+            "quantity": 1,
+            "total": 149.99,
+            "unitPrice": 149.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 124.99,
+            "vatAmount": 25
+        },
+        {
+            "gtin": "",
+            "name": "HLEB MARMIL CRNI 450G/KOM",
+            "quantity": 1,
+            "total": 50,
+            "unitPrice": 50,
+            "label": "Е",
+            "labelRate": 10,
+            "taxBaseAmount": 45.45,
+            "vatAmount": 4.55
+        },
+        {
+            "gtin": "8008110041090",
+            "name": "KOBASICA BARENA WUDY ZIVINSKA 300G/KOM",
+            "quantity": 2,
+            "total": 289.98,
+            "unitPrice": 144.99,
+            "label": "Ђ",
+            "labelRate": 20,
+            "taxBaseAmount": 241.65,
+            "vatAmount": 48.33
+        }
+    ]
+}
